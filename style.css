@@ -50,7 +50,7 @@ nav a:hover{
           display: flex;
           margin-top: 70px;
 }
-@media (max-width:2186px) {
+@media (max-width:1921px) {
           .a{
                     margin-top: 200px;
                     margin-left: -1200px;
